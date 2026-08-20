@@ -15,8 +15,7 @@ PDF Toolpack brings together six everyday document utilities in one portable des
 5. Images to PDF
 6. Heavy PDF Compression
 
-![PDF Toolpack v2.1 Interface](images/pdf-toolpack-preview.png)<img width="540" height="522" alt="pdf-toolpack-preview" src="https://github.com/user-attachments/assets/28bf6e7d-c776-499b-85e2-762066aa9e3a" />
-
+![PDF Toolpack v2.1 Interface](images/pdf-toolpack-preview.png)
 
 The application is designed to run locally on your Windows PC with no installation wizard required.
 
